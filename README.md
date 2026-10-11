@@ -8,7 +8,7 @@ text on a warm off-white background.
 
 ```lua
 {
-  "woofasa/aeris-light-nvim",
+  "woofasa/aeris-light.nvim",
   name = "aeris-light",
   priority = 1000,
   opts = {
